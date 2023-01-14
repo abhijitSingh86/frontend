@@ -1,0 +1,10 @@
+.fileContainer{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    height: fit-content;
+}
+
+.fileContainer > p {
+    padding: 0 20px 0 10Px;
+}

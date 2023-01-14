@@ -1,0 +1,12 @@
+.area{
+    display: flex;
+    flex-grow:1;
+    min-height: 100vh;
+    background-color: red;
+}
+
+.component{
+    width: 5vh;
+    margin-left: 10vh;
+    margin-top: 10vh;
+}
